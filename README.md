@@ -1,79 +1,107 @@
-# Hi 👋, I'm Tajvir Ahmed
+<div align="center">
 
-### 🚀 DevOps Engineer | IT Support | Cloud & Automation
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=DEVOPS%20%7C%20CLOUD%20%7C%20AUTOMATION&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-I'm a DevOps-focused engineer passionate about Linux, AWS,
-containerization, CI/CD and cloud infrastructure.
+# 👋 Hi, I'm Tajvir Ahmed
+
+### 🚀 DevOps Engineer
+
+**Linux • AWS • Docker • Kubernetes • Jenkins • Terraform • CI/CD**
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🐧 Working with Linux and system administration
-- ☁️ Learning and practicing AWS Cloud
-- 🐳 Working with Docker and containerization
-- 🔄 Building CI/CD pipelines with Jenkins
-- ☸️ Learning Kubernetes
-- 🏗️ Exploring Infrastructure as Code with Terraform
-- 📊 Learning monitoring and observability
-- 📱 Also interested in Android and Flutter development
+I'm a **DevOps Engineer** focused on cloud infrastructure, Linux,
+containerization, CI/CD automation and Infrastructure as Code.
+
+I'm also currently building my **Web Development** skills.
 
 ---
 
-## 🛠️ Tech Stack
+# ☁️ DevOps
 
-### DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github" />
+</p>
 
-Linux • Git • GitHub • Docker • Jenkins • Kubernetes • Terraform
-
-### AWS
-
-EC2 • VPC • IAM • ECR • ECS • S3 • RDS • CloudWatch
-
-### Development
-
-Node.js • Express.js • MongoDB • Java • Flutter
+```text
+Linux → AWS → Docker → Kubernetes → Jenkins → Terraform
+                         ↓
+                    CI / CD
+```
 
 ---
 
-## 🚀 Featured Projects
+# 🌐 Web Developer — Loading... 🚧
 
-### ☁️ AWS Node.js Container Deployment
+<div align="center">
 
-Git → EC2 → Docker → ECR → ECS → CloudWatch
+### `INITIALIZING WEB DEVELOPER MODE...`
 
-Hands-on AWS deployment project where I containerized a
-Node.js application and deployed it using Amazon ECR and ECS.
+```text
+[████████████████░░░░] 80%
 
-### 🏗️ AWS Three-Tier Application
+HTML        ✓
+CSS         ✓
+JavaScript  ⏳
+Node.js     ⏳
+Express.js  ⏳
+MongoDB     ⏳
 
-VPC • Public/Private Subnets • ALB • ASG • EC2 • RDS
+STATUS: LOADING...
+```
 
-Designed and practiced a three-tier AWS architecture
-with networking, load balancing, auto scaling and database services.
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,mongodb" />
+</p>
 
-### 🔄 Jenkins CI/CD Projects
+### 🚧 `WEB DEVELOPER MODE: UNDER DEVELOPMENT`
 
-Jenkins • Docker • GitHub • SonarQube • Trivy
+**Learn → Build → Debug → Deploy**
 
-Hands-on CI/CD projects focused on automated build,
-testing, containerization and deployment.
-
----
-
-## 📚 Currently Learning
-
-AWS Cloud
-Docker
-Kubernetes
-Jenkins / CI-CD
-Terraform
-Monitoring & Observability
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🚀 DevOps Projects
 
-💼 LinkedIn: www.linkedin.com/in/tajvir-ahmed
+### ☁️ AWS Node.js Deployment
 
-🐙 GitHub
+`Git → EC2 → Docker → ECR → ECS → CloudWatch`
+
+### 🏗️ AWS Three-Tier Architecture
+
+`VPC → ALB → EC2 → ASG → RDS`
+
+### 🔄 CI/CD
+
+`GitHub → Jenkins → Build → Test → Docker → Deploy`
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tajvir007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tajvir007&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 DevOps Today. Web Developer Loading...
+
+**Build • Deploy • Automate • Learn**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%"/>
+
+</div>
