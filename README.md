@@ -12,6 +12,10 @@
 <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github" />
 </p>
 
+<a href="https://www.linkedin.com/in/tajvir-ahmed">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 ---
 
 ## 👨‍💻 About Me
@@ -29,10 +33,10 @@ I'm also currently building my **Web Development** skills.
 <img src="https://skillicons.dev/icons?i=linux,aws,docker,kubernetes,jenkins,terraform,git,github" />
 </p>
 
-```text
+```text id="u2ba20"
 Linux → AWS → Docker → Kubernetes → Jenkins → Terraform
                          ↓
-                    CI / CD
+                       CI/CD
 ```
 
 ---
@@ -43,7 +47,7 @@ Linux → AWS → Docker → Kubernetes → Jenkins → Terraform
 
 ### `INITIALIZING WEB DEVELOPER MODE...`
 
-```text
+```text id="g52s3z"
 [████████████████░░░░] 80%
 
 HTML        ✓
@@ -101,6 +105,14 @@ STATUS: LOADING...
 ### 🚀 DevOps Today. Web Developer Loading...
 
 **Build • Deploy • Automate • Learn**
+
+<br>
+
+<a href="https://www.linkedin.com/in/tajvir-ahmed">
+<img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%"/>
 
